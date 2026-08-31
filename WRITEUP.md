@@ -50,3 +50,11 @@ Requirement for root or OS level access: for example, installing system packages
 
 Custom Networking Requirement: like requiring static outbound IP, custom configurations of VPN or Express Route, or detailed control over network stack provided by the managed networking of App Service. Hath traffic and need for optimization: at the high scale, a carefully right-sized and reserved instance VM or VM Scale Set can be more cost-effective than the correspondinst App Service Premium tier
 Background tasks requirement: App Service is tuned for serving requests and responding, but an application that needs to perform some background tasks apart from request processing can be easier to manage on VM(or requires pairing with Azure Functions/WebJobs).
+
+<img width="959" height="475" alt="1 6" src="https://github.com/user-attachments/assets/08b452c5-e562-4560-9968-137b078e0077" />
+<img width="956" height="476" alt="1 5" src="https://github.com/user-attachments/assets/4c9097e1-792a-4caf-8f8a-a8d08adcb936" />
+<img width="957" height="412" alt="1 4" src="https://github.com/user-attachments/assets/8a080891-f3f3-46cb-b66c-922300510516" />
+<img width="956" height="470" alt="1 3" src="https://github.com/user-attachments/assets/01e91a62-87b4-42b9-ab80-aa9436a4bbb0" />
+<img width="959" height="414" alt="1 2" src="https://github.com/user-attachments/assets/b77303e7-618c-4fe0-a10e-0ecdf23f68a6" />
+<img width="956" height="416" alt="1 1" src="https://github.com/user-attachments/assets/4b9d7904-e95d-4a6e-a8fc-a32e601f49ce" />
+
